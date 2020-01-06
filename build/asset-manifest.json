@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.60660221.chunk.css",
+    "main.js": "/static/js/main.a6f7e4c7.chunk.js",
+    "main.js.map": "/static/js/main.a6f7e4c7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.516d26ec.js",
+    "runtime-main.js.map": "/static/js/runtime-main.516d26ec.js.map",
+    "static/js/2.a2cb3ca2.chunk.js": "/static/js/2.a2cb3ca2.chunk.js",
+    "static/js/2.a2cb3ca2.chunk.js.map": "/static/js/2.a2cb3ca2.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.6f4870ce37ecaeef554b89d494372221.js": "/precache-manifest.6f4870ce37ecaeef554b89d494372221.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.60660221.chunk.css.map": "/static/css/main.60660221.chunk.css.map",
+    "static/js/2.a2cb3ca2.chunk.js.LICENSE": "/static/js/2.a2cb3ca2.chunk.js.LICENSE",
+    "static/media/Mobile.png": "/static/media/Mobile.c43bbdc4.png",
+    "static/media/App.css": "/static/media/liveShape-bg.4190bd01.svg",
+    "static/media/about-icon-2.png": "/static/media/about-icon-2.3f7f6f88.png",
+    "static/media/about-icon-3.png": "/static/media/about-icon-3.d73ed150.png",
+    "static/media/about-left.png": "/static/media/about-left.4a18ff40.png",
+    "static/media/flag-1.png": "/static/media/flag-1.253246a0.png",
+    "static/media/flag-2.png": "/static/media/flag-2.1c7290aa.png",
+    "static/media/flag-3.png": "/static/media/flag-3.943ec9af.png",
+    "static/media/flag-4.png": "/static/media/flag-4.dcf62c1d.png",
+    "static/media/flag-5.png": "/static/media/flag-5.d28a1b9e.png",
+    "static/media/logo-top.png": "/static/media/logo-top.038d8eb7.png",
+    "static/media/token-bottom.png": "/static/media/token-bottom.d20a4c7d.png",
+    "static/media/token-top.png": "/static/media/token-top.ba77d147.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.516d26ec.js",
+    "static/js/2.a2cb3ca2.chunk.js",
+    "static/css/main.60660221.chunk.css",
+    "static/js/main.a6f7e4c7.chunk.js"
+  ]
+}
