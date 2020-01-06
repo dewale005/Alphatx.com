@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "05b9bee4ac6e7bf0c4056cc5af6930c5",
+    "revision": "048cebc9039f8aa36ab691b88ed642bc",
     "url": "/Alphatx.com/index.html"
   },
   {
-    "revision": "79b30996ac92f12e9323",
+    "revision": "998e6faa82a4c7129842",
     "url": "/Alphatx.com/static/css/main.7c174170.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Alphatx.com/static/js/2.a2cb3ca2.chunk.js.LICENSE"
   },
   {
-    "revision": "79b30996ac92f12e9323",
-    "url": "/Alphatx.com/static/js/main.a6f7e4c7.chunk.js"
+    "revision": "998e6faa82a4c7129842",
+    "url": "/Alphatx.com/static/js/main.77551fa7.chunk.js"
   },
   {
     "revision": "5f3e5dcb8890a698d076",
