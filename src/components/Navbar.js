@@ -21,12 +21,12 @@ function Navbar() {
                                 <nav>
                                     <ul id="slick-nav">
                                         <li><a className="scroll" href="#home">home</a>
-                                            <ul>
+                                            {/* <ul>
                                                 <li><a href="index.html">Version 1</a></li>
                                                 <li><a href="index2.html">Version 2</a></li>
                                                 <li><a href="blog.html">blog</a></li>
                                                 <li><a href="single-blog.html">single blog</a></li>
-                                            </ul>
+                                            </ul> */}
                                         </li>
                                         <li><a className="scroll" href="#about">About</a>
                                         </li>
